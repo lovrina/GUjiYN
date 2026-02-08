@@ -1,20 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=嗨👋我是GUjiYN&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=嗨👋我是lovrina&fontSize=50&animation=fadeIn)
 
 </div>
 
 <div align="center">
-    <img src="https://api.moedog.org/count/@GUjiYN.readme" style="height: 65px">
+    <img src="https://api.moedog.org/count/@lovrina.readme" style="height: 65px">
 </div>
 
 ## 🎓About me
-👋 Hey, I'm GUjiYN! A senior undergraduate student deeply passionate about front-end development and the sweet spot where code meets creativity. Front-end development is my expertise: I'm proficient in HTML5/CSS3, JavaScript (ES6+), and frameworks like React/Vue, with a knack for building responsive, interactive web experiences. I also have a foundational grasp of back-end technologies (e.g., java, basic databases), which helps me think holistically about projects.
+👋 Hey, I'm Lovrina Yang! A senior undergraduate student deeply passionate about front-end development and the sweet spot where code meets creativity. Front-end development is my expertise: I'm proficient in HTML5/CSS3, JavaScript (ES6+), and frameworks like React/Vue, with a knack for building responsive, interactive web experiences. I also have a foundational grasp of back-end technologies (e.g., java, basic databases), which helps me think holistically about projects.
 
 - 🤝 Let’s Connect<br>
 🐧 QQ: 2946459904<br>
-🐦 Twitter: [GUjiYN](https://x.com/GUji_YN)<br>
-📧 Email: 2946459904@qq.com<br>
+🐦 Twitter: [Lovrina Yang](https://x.com/GUji_YN)<br>
+📧 Email: lovrina@l-na.cn<br>
 
 
 
@@ -35,8 +35,8 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUjiYN&layout=compact&hide=php,javascript,css" style="height: 180px">
-    <img src="https://github-readme-stats.vercel.app/api?username=GUjiYN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 180px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovrina&layout=compact&hide=php,javascript,css" style="height: 180px">
+    <img src="https://github-readme-stats.vercel.app/api?username=lovrina&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 180px">
 </div>
 
 <div align="center">
